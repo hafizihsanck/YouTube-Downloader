@@ -35,7 +35,7 @@ Made by @ihsan_bin_ahmd
     START_BUTTONS = InlineKeyboardMarkup(
         [[
         InlineKeyboardButton('Channel', url='https://t.me/Moveis_hund'),
-        InlineKeyboardButton('Feedback', url='https://telegram.me/ihsan_bin_ahmd')
+        InlineKeyboardButton('Creater 🇮🇳', url='https://telegram.me/ihsan_bin_ahmd')
         ],[
         InlineKeyboardButton('Help', callback_data='help'),
         InlineKeyboardButton('About', callback_data='about'),
